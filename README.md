@@ -1,6 +1,6 @@
 # Multi-Modal Classification System
 
-## TensorFlow Universal Sentence Encoder + K-Means Semantic Clustering
+### TensorFlow Universal Sentence Encoder + K-Means Semantic Clustering
 
 #### This notebook download Kaggle W2 dataset and extract text from tax documents
 #### This notebook converts PDF text to a semantics vector using TensorFlow U.S.E model
