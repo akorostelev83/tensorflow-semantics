@@ -12,8 +12,8 @@
 
 # Semantics Clustering with K-Means and Semantic Centers
 
-#### This code take a list of long texts
+#### This code take any length list of long texts
 #### This code uses TensorFlow USE model for semantics & K-Means for Clustering
-#### This code SkLearn.Metrics to find the semantics closest to the cluster centers i.e. to find text which describes the semantic cluster
+#### This code uses SkLearn.Metrics to find the semantics closest to the cluster centers i.e. to find text which describes the semantic cluster
 
 [click here to view code](https://github.com/akorostelev83/tensorflow-semantics/blob/main/tensorflow-semantics-clustering-and-cluster-descriptions.py)
