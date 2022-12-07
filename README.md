@@ -8,3 +8,12 @@
 #### This notebook uses a Random Forest to classify semantics
 
 [click here to view notebook](https://github.com/akorostelev83/tensorflow-semantics/blob/main/tensorflow-use-classification-notebook.ipynb)
+
+
+# Semantics Clustering with K-Means and Semantic Centers
+
+#### This code take a list of long texts
+#### This code uses TensorFlow USE model for semantics & K-Means for Clustering
+#### This code SkLearn.Metrics to find the semantics closest to the cluster centers i.e. to find text which describes the semantic cluster
+
+[click here to view code](https://github.com/akorostelev83/tensorflow-semantics/blob/main/tensorflow-semantics-clustering-and-cluster-descriptions.py)
