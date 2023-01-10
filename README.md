@@ -1,4 +1,4 @@
-# Multi-Modal Classification System
+# Semi-Supervised & Supervised Classification System
 
 ### TensorFlow Universal Sentence Encoder + K-Means Semantic Clustering
 
